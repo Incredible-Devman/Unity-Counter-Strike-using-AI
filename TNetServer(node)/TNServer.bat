@@ -1,0 +1,1 @@
+TNServer.exe "sever" 5127 5128 5129
